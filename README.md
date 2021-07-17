@@ -8,7 +8,7 @@
 - The app’s client interface communicates with the app’s server to create, read, update, and/or delete content in the back end data store.
 
 # Life In Corvallis Web Page (more details)
-This Web Development Project, by Qiaoran Li, Shuai Guo and Funfay Jen, is built to provide Oregon's travel and entertainment information together with some features such as searching by keyword, adding information by user, etc. Please note that the "Plan" tab is a stub as it currently serves as one of many ideas on possible extensions of this website for it to mature into something more substantial.
+This Web Development Project, by Qiaoran Li, Shuai Guo and Funfay Jen, is built to provide Oregon's travel and entertainment information together with some features such as searching by keyword, adding information by user, etc. **Please note that the "Plan" tab is a stub as it currently serves as one of many ideas on possible extensions of this website for it to mature into something more substantial.**
 
 The technique we used in this project:
 - HTML & CSS
