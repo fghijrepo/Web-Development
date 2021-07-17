@@ -1,0 +1,65 @@
+{
+  "bald-hill": {
+    "name": "Bald Hill Natural Area",
+    "description": "Bald Hill Natural Area is a favorite of Corvallis residents. This park offers both a moderately level, 1.5 mile multi-modal path along the base of the hill and several miles of dirt and gravel foot trails that circle and climb to the summit of the hill, as well as connect to the Mulkey Creek trail and Fitton Green Natural Area. The trails pass through varied habitats of upland prairie, oak savanna, oak woodlands, riparian areas and wetlands. Wildflowers are plentiful in the spring. ",
+    "location": "https://www.google.com/maps/dir//SW+53rd+St,+Corvallis,+OR/@44.5378283,-123.3205384,15z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x54c0470fb19b9789:0x26c23561ea60b949!2m2!1d-123.3117836!2d44.5378286",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/baldHill.jpg"]
+  },
+
+  "wiliam-finley": {
+    "name": "William L. Finley National Wildlife Refuge",
+    "description": "The 5,325 acres of William L. Finley NWR protect fine examples of many of the Willamette Valley’s historic habitats. Fields of wildlife food crops are interspersed with Oregon white oak savanna, meandering creeks with bottomland Oregon ash forest, mature big-leaf maple in mixed coniferous forest and native prairie.",
+    "location": "https://www.google.com/maps/dir//26208+Finley+Refuge+Rd,+Corvallis,+OR+97333/@44.4099821,-123.336386,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x54c04e3a866e6bcb:0xf894361342101d78!2m2!1d-123.3341973!2d44.4099821",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/Refuge.jpg"]
+  },
+
+  "peavy": {
+    "name": "Peavy Arboretum",
+    "description": "The Arboretum is a popular gateway to explore the further reaches of McDonald Forest and has provided an outdoor teaching lab for generations of both children and adults. Its history is rich, with ancient Native American sites, the home of the original Oregon State Forest Nursery, as well as the site of a Civilian Conservation Corp camp in the 1930's. Currently, the Arboretum houses the College Forest field office and staff. Arboretum maintenance is funded entirely by the College of Forestry from revenues derived from sale of timber by the College Forests.",
+    "location": "https://www.tripadvisor.com/Attraction_Review-g51817-d1454794-Reviews-Peavy_Arboretum-Corvallis_Oregon.html#MAPVIEW",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/Arboretum.jpg"]
+  },
+
+  "mcdonald-dunn": {
+    "name": "OSU McDonald-Dunn Research Forest",
+    "description": "McDonald-Dunn Research Forest is located a short 15 minute drive north of the OSU campus. Because of its proximity to campus, this Forest is extensively used for university instruction and research. Four distinct forest management themes, even-aged, two-storied and uneven-aged, plus reserved old-growth stands, allow side-by-side comparisons of the effects of implementing these themes. The Forest's non-motorized recreation opportunities in close proximity to the Corvallis community result in over 175,000 non-motorized recreation visits each year, another researchable opportunity. Peavy Arboretum is being developed to provide examples of all of the major eco-zones found in Oregon. The College Forests offices are located at the Arboretum.",
+    "location": "https://www.google.com/maps/place/College+of+Forestry/@44.5644589,-123.3320836,12z/data=!4m5!1m2!2m1!1sOSU+McDonald-Dunn+Research+Forest!3m1!1s0x54c040b0a16c6245:0xf716422b9c201887",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/ResearchForest.jpg"]
+  },
+
+  "siuslaw": {
+    "name": "Siuslaw National Forest",
+    "description": "From forest floor to ocean shore the Siuslaw National Forest stretches from the lush forests of the coastal mountains to the unique Oregon Dunes and the beaches of the Pacific Ocean. Come, play, explore a stunning choice of things to do and see.",
+    "location": "https://www.google.com/maps?daddr=3200+SW+Jefferson+Way,+Corvallis,+OR+97331-8550",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/SiuslawForest.jpg"]
+  },
+
+  "rose-garden": {
+    "name": "Rose Garden in Avery Park",
+    "description": "The Rose Garden is one of Corvallis' most popular weddings and outdoor event venues. From May to October, the Garden is is blooming with roses, making it a dramatic and beautiful backdrop for your event (the Garden is available for rent April 1 - October 31).  The Garden is full of little surprises, from picturesque wrought-iron benches and arbors to permanent art pieces, inviting the visitor to wander the Garden's trails to discover its hidden treasures. The Garden also features a romantic arbor at its heart that is the perfect site for a wedding. Nearby picnic shelters, playgrounds, horseshoe court, and ball fields provide options to craft an event that is uniquely yours, while the Park's famous locomotive and the riverside viewing areas are the perfect backdrop for formal photos.",
+    "location": "https://www.google.com/maps/dir//15th+Street+Avery+Park,+Corvallis,+OR/@44.5535224,-123.3432051,12z/data=!3m1!4b1",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/RoseGarden.jpg"]
+  },
+
+  "riverfront": {
+    "name": "Riverfront Commemorative Park",
+    "description": "Riverfront Commemorative Park is a beautiful urban park bordering the commercial district of downtown Corvallis. Designed as a 'downtown showcase', the park features both paved and grassy areas, views of the Willamette River, a variety of resting benches, over 350 ornamental trees and over 5,000 decorative shrubs. A 12 foot wide, 3/4 mile long multi-modal path runs along the park, connecting three distinct plazas. These plazas are available for rent year round. The path also connects the riverfront to the Eric Scott McKinley Skate Park and then on to Pioneer Park. ",
+    "location": "https://www.google.com/maps?daddr=1st+Street+Between+Tyler+%26+B+street,+Corvallis,+OR+97333",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/CommemorativePark.jpg"]
+  },
+
+  "chip-ross": {
+    "name": "Chip Ross Natural Area",
+    "description": "Chip Ross Park features an easy-to-moderate 1.5 mile trail through lush forest and hilltop habitats of upland prairie and Oak savanna. The park offers beautiful views of Corvallis, the Willamette Valley, the Coast Range and the Cascade Mountains. Hikers and runners can also access the many miles of trails in adjacent McDonald Forest from here. ",
+    "location": "https://www.google.com/maps/dir//NW+Lester+Ave,+Corvallis,+OR+97330/@44.6060715,-123.2782682,15z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x54c03fa2e853918f:0x7e2f8f6e14255ffe!2m2!1d-123.2695134!2d44.6060718",
+    "locationName":"Corvallis, Oregon",
+    "photos": ["sightseeing-pics/ChipRoss.jpg"]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "dirty-dash": {
+    "name": "The Dirty Dash (Sports&Outdoors)",
+    "description": "The Dirty Dash is a mud run obstacle course where a military boot camp meets your inner five-year-old’s fantasy. Dashers must overcome a slew of mud-slicked obstacles, including mucky climbing hills, muddy logs, slip 'n slides, and rope bridges. Organizers encourage runners to sign up with friends to foster a fun-loving environment. Further demonstrating its commitment to outdoor high jinks, each event's registration fees, donations, water-balloon sales, and shoe donations benefit local charities. The Dirty Dash is a mud run obstacle course where a military boot camp meets your inner five-year-old’s fantasy.",
+    "location": "https://www.google.com/maps/place/33648+Berry+Dr+NE,+Albany,+OR+97322/@44.6800779,-123.0551043,17z/data=!3m1!4b1!4m5!3m4!1s0x54c0129412e3a157:0xe6014985b5a1b743!8m2!3d44.6800779!4d-123.0529156",
+    "locationName": "33648 Berry Drive Northeast, Albany, OR 97322",
+    "photos": [
+      "entertainment-pics/dirtyDash.png"
+    ]
+  },
+  "get-air": {
+    "name": "Get Air",
+    "description": "Get Air Indoor Trampolines parks offers wall-to-wall trampolines, dunk lanes, long tumbling tracks, and an extreme trampoline dodgeball court. Get Air brings the backyard trampoline experience indoors—and then takes it to the next level. Individually sewn trampolines cover thousands of square feet on the main court, sitting flat or at an angle to the wall. Visitors have ample room to bounce through the air or flinging themselves into foam pits, all while cameras record and replay spectacular landings on flat screens. In addition to the open-jump areas, Get Air includes separate sections for trampoline dodgeball games and gravity-defying slam dunks on padded basketball hoops. Elsewhere, a slackline and a wobbly rope ladder challenge balance skills. Get Air even features a separate play area for small children, who safely bounce under the watchful eyes of Get Air Lifeguards. Get Air offers more than just trampolines, like the ninja obstacle course, similar to the training courses on the popular TV show 'American Ninja Warrior'.",
+    "location": "https://www.google.com/maps/place/3910+Rickey+St+SE,+Salem,+OR+97317/@44.9146998,-122.9848184,17z/data=!3m1!4b1!4m5!3m4!1s0x54bff8da3f4771f5:0x2f7d28b90213e771!8m2!3d44.9146998!4d-122.9826297",
+    "locationName": "3910 Rickey Street Southeast, Salem, OR 97317",
+    "photos": [
+      "entertainment-pics/getAir.png"
+    ]
+  },
+
+  "horseback": {
+    "name": "Horseback-Riding",
+    "description": "In 1870, James and Charlotte Peery purchased 80 acres of land along Crabtree Creek and created a homestead for their family. Little did they know that, over the years, this homestead would pass down through five generations. Today, Century Farm Equestrian Center stands on the same land the Peerys bought nearly 150 years ago. Horseback riding is the name of the game here, with lessons available for beginners as well as seasoned veterans. Western riding lessons take place in an enclosed arena and on trails that wind through the property. Students can also spend time bonding and exchanging email addresses with the horses at summer camp.",
+    "location": "https://www.google.com/maps/place/40835+Oupor+Dr,+Scio,+OR+97374/@44.649361,-122.7725447,17z/data=!3m1!4b1!4m5!3m4!1s0x54c07689de2115ad:0xea206efbd4e6e6bf!8m2!3d44.649361!4d-122.770356",
+    "locationName": "40835 Oupor Drive, Scio, OR 97374",
+    "photos": [
+      "entertainment-pics/hoursebackRide.png"
+    ]
+  },
+  "rafting": {
+    "name": "Rafting",
+    "description": "In the shadow of the Deschutes River’s towering buttes and sheer rock faces, High Desert River Outfitters’ rafts soar over swirling rapids. The outfitter’s river guides have been navigating this river since 1990 and have mastered its most challenging rapids and eddies. In addition to firsthand experience, all guides boasts extensive training in swift-water safety and rescue, as well as certifications in first aid and CPR. They welcome adventurers of all ages, carefully tailoring trips to suit skill levels. Groups can embark on leisurely half-day sojourns that provide a quick riverside glimpse of the surrounding landscape. Additionally, on any trips that last a day or longer, guides prepare barbecue lunches for all their guests to provide them with the energy necessary to control the rafts and physically remove any stowaway mountain goats.",
+    "location": "https://www.google.com/maps/place/206+Elrod+Ave,+Maupin,+OR+97037/@45.1748052,-121.0782442,17z/data=!3m1!4b1!4m5!3m4!1s0x54bdd8bc8dafb447:0x62b31734e2fae92f!8m2!3d45.1748052!4d-121.0760555",
+    "locationName": "40835 Oupor Drive, Scio, OR 97374",
+    "photos": [
+      "entertainment-pics/rafting.png"
+    ]
+  },
+  "alpaca-farm": {
+    "name": "Alpaca Farm Tour",
+    "description": "Alpacas roam Peru, Bolivia, and Chile in abundance, but you don't have to go all the way to South America to meet them. That's because more than 80 alpacas make their home at Marquam Hill Ranch, an 18-acre countryside property in Molalla. There, you can take an approximately one-hour tour, complete with an educational talk on the alpaca. Participants will experience an alpaca feeding, and an opportunity to interact with and pet an alpaca. Marquam Hill Ranch also has a store stocked with rugs and yarn made from the very fiber of the alpacas that live on the ranch.",
+    "locationName": "35835 Highway 213, Molalla, OR 97038 ",
+    "location": "https://www.google.com/maps/place/35835+OR-213,+Molalla,+OR+97038/@45.0879637,-122.6681907,17z/data=!3m1!4b1!4m5!3m4!1s0x54bfdfc3a430ccc7:0x79bb3ccee2f71486!8m2!3d45.0879637!4d-122.666002",
+    "photos": [
+      "entertainment-pics/aplacaFarm.png"
+    ]
+  },
+  "wine-tasting": {
+    "name": "Wine Tasting",
+    "description": "As a native Norwegian, Dag Johan Sundby traces his roots back to the Vikings, who sailed the North Atlantic as conquerors more than a 1,000 years ago. But, as a pursuer of the perfect Oregonian Pinot Noir, he looks back to times even more ancient, when the formation of sedimentary rock resulted in soil full of nutrients. This geological bounty gives rise to Johan Vineyards' yearly harvests of Burgundian grapes, bolstered by the ocean breeze, cool climes, and bedtime stories about a raisin who got his mojo back. The pressings of these fruits go into French Oak casks, aging for at least a year and a half before going into their final bottle. Inside the winery's tasting room, guests are surrounded by these casks as they sip on freshly uncorked vintages.",
+    "location": "https://www.google.com/maps/place/4285+N+Pacific+Hwy+W,+Rickreall,+OR+97371/@45.0101026,-123.2193714,17z/data=!3m1!4b1!4m5!3m4!1s0x54eaab64ee381739:0x49aa21261e76815e!8m2!3d45.0101026!4d-123.2171827",
+    "locationName": "4285 N Pacific Highway West, Rickreall, OR 97371",
+    "photos": [
+      "entertainment-pics/wineTasting.png"
+    ]
+  },
+  "golf-club": {
+    "name": "Oak Hills Golf Club",
+    "description": "It’s said that golf can take a lifetime to master, but just about every shot takes only milliseconds. In fact, the actual collision between club and ball lasts only around 450 millionths of a second, and it’s here where the biggest action of a golf swing takes place. In a desirable outcome, two things happen as the center of the clubface strikes the ball: first, the club’s momentum transfers to the ball; second, the impact causes the flexible ball to compress, adding extra velocity as the ball springs back into shape. The more compression, the farther the ball will travel. With lofted clubs such as the 6-iron, the clubface strikes the ball on a downward trajectory, scooping out a divot of turf in the meantime. This creates even more compression by pushing the ball into the dirt before it leaves the ground. Before launching skyward, the ball scoots up the lofted plane of the clubface, rubbing against the grooves to create backspin that will help it maintain its trajectory and fight through any wind resistance or asteroid fields. If the club is angled at impact, i.e., not facing square to the target, it will cut across the ball, creating sidespin and resulting in either a hook or a slice. When it comes to the golf swing, there are many different styles and schools of thought—each with its own variation on setup, grip, backswing, and follow-through—but there are some universal techniques that help create an effective and explosive impact. For instance, at the top of the backswing, golfers should have their wrists cocked at a 90-degree angle. To generate optimal clubhead speed, they wait until their hands drop to their waist until they release their wrists, effectively whipping the clubhead through contact and adding punch to an otherwise smooth, steady swing.",
+    "location": "https://www.google.com/maps/place/1919+Recreation+Ln,+Sutherlin,+OR+97479/@43.389107,-123.3470137,17z/data=!3m1!4b1!4m5!3m4!1s0x54c41d6c3eda2767:0xb6f7ee7c062d472f!8m2!3d43.389107!4d-123.344825",
+    "locationName": "1919 Recreation Lane, Sutherlin, OR 97479",
+    "photos": [
+      "entertainment-pics/golfClub.png"
+    ]
+  }
+
+}
